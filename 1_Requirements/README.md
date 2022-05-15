@@ -1,5 +1,5 @@
 # Highlevel Requirements
-| First Header  | Second Header |
+| HLR_ID  | Description |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
