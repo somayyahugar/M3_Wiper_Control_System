@@ -26,17 +26,17 @@
 * It reduces the occurrences of accidents due to distractions.
 
 * The wiper arm return backs to its original position, when turned off.
-* 
+
 **Weaknesses** 
 
 * Differences between the button presses corresponding to the Iglition on and speed control is not clearly specified.
 *  The controller design is not flexible with additional integration features.
-*  
+
 **Opportunities** 
 
 * By utilizing the input capture mode of timer, the differentiation between button presses can be achieved.
 * Complete end to end solution can be obtained by working on integration problems.
-* 
+
 **Threats** 
 
 * The developed system is not waterproof, fireproof, etc..
