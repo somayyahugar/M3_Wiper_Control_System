@@ -8,6 +8,6 @@
 # Lowlevel Requirements
 | HLR_ID  | LLR_ID | Description |
 | ------------- | ------------- |
-|   | LLR_1 | LEDs come on in desired pattern at set frequency at 1 Hz(Low Speed)     |
+   | LLR_1 | LEDs come on in desired pattern at set frequency at 1 Hz(Low Speed)     |
 | HLR_2  | LLR_2 | LEDs come on in desired pattern at set frequency at 4 Hz(Medium Speed)   |
-| | LLR_3 | LEDs come on in desired pattern at set frequency at 8 Hz(High Speed) |
+| LLR_3 | LEDs come on in desired pattern at set frequency at 8 Hz(High Speed) |
