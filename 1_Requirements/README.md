@@ -13,7 +13,7 @@
 | | LLR_3 | LEDs come on in desired pattern at set frequency at 8 Hz(High Speed) |
 
 # SWOT Analysis
-**Strenght**
+# Strenght
 * No manual or human intervention needed.
 
 * 3 modes of speed control available.
