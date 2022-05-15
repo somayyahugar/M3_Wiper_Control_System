@@ -5,6 +5,7 @@ This project is to initiate the automatic wiper action by sensing the intensity 
 
 
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/41aa754293c74395931fb38ff726eabe)](https://app.codacy.com/gh/somayyahugar/M3_Wiper_Control_System?utm_source=github.com&utm_medium=referral&utm_content=somayyahugar/M3_Wiper_Control_System&utm_campaign=Badge_Grade_Settings)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/cab19949f13743f3b289688493b06ac0)](https://www.codacy.com/gh/somayyahugar/M3_Wiper_Control_System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=somayyahugar/M3_Wiper_Control_System&amp;utm_campaign=Badge_Grade)
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/cab19949f13743f3b289688493b06ac0)](https://www.codacy.com/gh/somayyahugar/M3_Wiper_Control_System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=somayyahugar/M3_Wiper_Control_System&amp;utm_campaign=Badge_Grade)
