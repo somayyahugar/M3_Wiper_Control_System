@@ -11,3 +11,13 @@
 |   | LLR_1 | LEDs come on in desired pattern at set frequency at 1 Hz(Low Speed)     |
 | HLR_2  | LLR_2 | LEDs come on in desired pattern at set frequency at 4 Hz(Medium Speed)   |
 | | LLR_3 | LEDs come on in desired pattern at set frequency at 8 Hz(High Speed) |
+
+# SWOT Analysis
+**Strenght**
+"."No manual or human intervention needed.
+
+. 3 modes of speed control available.
+
+It reduces the occurrences of accidents due to distractions.
+
+The wiper arm return backs to its original position, when turned off.
