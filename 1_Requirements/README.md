@@ -2,4 +2,4 @@
 | HLR_ID  | Description |
 | ------------- | ------------- |
 | HLR_1  | The Red LED is on to indicate the ignition Key position at ACC  |
-| Content Cell  | Content Cell  |
+| HLR_2  | LEDs come on in desired pattern at set frequency replicating speed control of wiper arm  |
