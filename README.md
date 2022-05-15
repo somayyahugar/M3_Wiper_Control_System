@@ -5,4 +5,5 @@ This project is to initiate the automatic wiper action by sensing the intensity 
 
 ## Codiga
 https://api.codiga.io/project/33566/score/svg
+
 https://api.codiga.io/project/33566/status/svg
