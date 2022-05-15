@@ -20,11 +20,8 @@
 ######  Strenght
 
 * No manual or human intervention needed.
-
 * 3 modes of speed control available.
-
 * It reduces the occurrences of accidents due to distractions.
-
 * The wiper arm return backs to its original position, when turned off.
 
 ######  Weaknesses
